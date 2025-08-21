@@ -53,7 +53,11 @@ cd TASK
 ## 📸 Screenshots
 HTTP1 vs HTTP2 :
 
+![TASK](./db-http1vshttp2.png)
+
 JavaScript Objects :
+
+![TASK](./objects-javascript.png)
 
 ## 🛠️ Tech Stack
 - Markdown (.md) for articles
