@@ -1,11 +1,3 @@
-1.**Write a blog on Difference between HTTP1.1 vs HTTP2**
- 
-  Find the blog link : link https://medium.com/@elanthirank/differences-between-http1-http2-d5ea3aeff6b7
-
-2.**Write a blog about objects and its internal representation in Javascript** 
-  
-  Find the blog link : link https://medium.com/@elanthirank/objects-and-its-internal-representation-in-javascript-0c72849b2293
-
 
 # 📖 TASK(HTTP1 vs HTTP2 & JavaScript Objects – Blog Project)
 
@@ -14,6 +6,18 @@
 - More upcoming developer-focused learning notes
 
 ---
+
+## Blog
+1.**Write a blog on Difference between HTTP1.1 vs HTTP2**
+ 
+  Find the blog link : link https://medium.com/@elanthirank/differences-between-http1-http2-d5ea3aeff6b7
+
+2.**Write a blog about objects and its internal representation in Javascript** 
+  
+  Find the blog link : link https://medium.com/@elanthirank/objects-and-its-internal-representation-in-javascript-0c72849b2293
+
+---
+
 
 ## 🚀 Features
 - 📑 Well-structured technical writeups
@@ -28,7 +32,6 @@
 ├── articles/
 │ ├── http-differences.md # HTTP1 vs HTTP2
 │ ├── javascript-objects.md # Objects in JavaScript
-│ └── window-vs-document.md # Window vs Document objects
 ├── README.md
 
 
